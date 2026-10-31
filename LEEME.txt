@@ -1,0 +1,18 @@
+ECONOVA - CODIGO FUENTE
+
+Esta carpeta contiene el codigo editable del sitio web.
+
+Archivos:
+- index.html: contenido y estructura.
+- style.css: estilos y adaptacion para computadora, tablet y celular.
+- script.js: menu movil, animaciones y contadores.
+- img/: imagenes ilustrativas utilizadas por la pagina.
+
+Para probar:
+1. Extrae el archivo ZIP.
+2. Abre la carpeta en Visual Studio Code.
+3. Abre index.html con Live Server.
+4. Para probar celular, abre las herramientas del navegador y activa la vista de dispositivo movil.
+
+Las imagenes son ilustrativas y no representan fotografias del prototipo real.
+Los contadores muestran datos descriptivos del proyecto, no resultados de pruebas ambientales.
